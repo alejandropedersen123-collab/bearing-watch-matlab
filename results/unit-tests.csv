@@ -1,0 +1,8 @@
+Test,Passed,Failed,DurationSeconds
+test_bearing/testSineFeatures,1,0,1.1884419
+test_bearing/testBadSensorsRejected,1,0,0.2958154
+test_bearing/testNoOverlapOrPartialWindow,1,0,0.1298626
+test_bearing/testPersistence,1,0,0.0619413
+test_bearing/testDCInvariant,1,0,0.1081915
+test_bearing/testDetectsAmplitudeShift,1,0,0.279485
+test_bearing/testRecordSelectionPreventsLeakage,1,0,0.0594456

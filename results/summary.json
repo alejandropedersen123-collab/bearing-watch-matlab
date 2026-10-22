@@ -1,0 +1,27 @@
+{
+  "testWindows": 206,
+  "testRecords": 4,
+  "trainRecords": [
+    97,
+    98
+  ],
+  "calibrationRecords": 99,
+  "testRecordIDs": [
+    100,
+    108,
+    121,
+    133
+  ],
+  "threshold": 3,
+  "truePositive": 88,
+  "falseNegative": 0,
+  "falsePositive": 0,
+  "trueNegative": 118,
+  "sensitivity": 1,
+  "falseAlarmRate": 0,
+  "balancedAccuracy": 1,
+  "matlabVersion": "26.1.0.3346908 (R2026a) Update 5",
+  "windowSamples": 4096,
+  "scope": "CWRU seeded defects, single test rig, 3 hp held-out records. Windows are correlated; not independent machines.",
+  "rmsOnlyBalancedAccuracy": 1
+}
