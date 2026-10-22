@@ -4,6 +4,12 @@ An industrial condition-monitoring portfolio project: turn raw accelerometer rec
 
 **MATLAB project · MIT source code · tested locally on R2026a · no optional toolboxes required.**
 
+[**Open the interactive demo →**](https://alejandropedersen123-collab.github.io/bearing-watch-matlab/)
+
+![Interactive demo preview](docs/preview.png)
+
+The presentation uses the owner's selected visual system with a locally bundled Inter font. See [visual tokens and font attribution](docs/design-system.md).
+
 ![Real-data evaluation](results/benchmark.png)
 
 ## What this demonstrates
