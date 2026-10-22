@@ -37,7 +37,7 @@ Or use `matlab -batch "addpath(pwd); download_data; run_benchmark"` from this fo
 
 The checked-in `results/` directory contains a measured local run, so reviewers can inspect results without a MATLAB license. Running the code requires MATLAB; an MIT license on this repository does not license MATLAB itself.
 
-Seven unit tests passed locally on R2026a Update 5. GitHub Actions is configured but has not been run on a hosted repository. After regenerating results, `python tools/build_demo.py` rebuilds the standalone viewer using Python 3 and its standard library.
+Seven unit tests passed locally on R2026a Update 5. The same tests and the synthetic smoke demo also [passed in GitHub Actions](https://github.com/alejandropedersen123-collab/bearing-watch-matlab/actions/runs/39823445226). The CWRU benchmark below was run locally; CI does not download third-party data. After regenerating results, `python tools/build_demo.py` rebuilds the standalone viewer using Python 3 and its standard library.
 
 ## Evaluation protocol
 
